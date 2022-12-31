@@ -1,0 +1,15 @@
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Boiled Water Alert App.exe
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Boiled Water Alert App.deps.json
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Boiled Water Alert App.runtimeconfig.json
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Boiled Water Alert App.dll
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Boiled Water Alert App.pdb
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.csproj.AssemblyReference.cache
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.AssemblyInfoInputs.cache
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.AssemblyInfo.cs
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.csproj.CoreCompileInputs.cache
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.dll
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\refint\Boiled Water Alert App.dll
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.pdb
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.genruntimeconfig.cache
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\ref\Boiled Water Alert App.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boiled Water Alert App", "Boiled Water Alert App\Boiled Water Alert App.csproj", "{0F13D0FD-7AB0-495F-93B9-18A77505C11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F13D0FD-7AB0-495F-93B9-18A77505C11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F13D0FD-7AB0-495F-93B9-18A77505C11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F13D0FD-7AB0-495F-93B9-18A77505C11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F13D0FD-7AB0-495F-93B9-18A77505C11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF40C0D7-2F3D-4534-BB5F-AE1C9E3148F7}
+	EndGlobalSection
+EndGlobal
