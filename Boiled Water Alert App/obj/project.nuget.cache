@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jS0LFONIkxLOSqLLRXgSU/gSYoZOgq04XFdqmCwdvSApxjzUu+i26rTYGal+pRs3oQHrO6KNyAK2v6Vlljii7w==",
+  "dgSpecHash": "bmSeAY7+5ZKA1G8//VWWW69SJJmIRfx2awHS4qHpvkoIg2G7cnmGQz/kgLlTKwf7NTFosq2Io/03OGNqkMoXLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ianmc\\source\\repos\\Boiled Water Alert App\\Boiled Water Alert App\\Boiled Water Alert App.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ianmc\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,3 +13,6 @@ C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\De
 C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.pdb
 C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.genruntimeconfig.cache
 C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\ref\Boiled Water Alert App.dll
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\ianmc\source\repos\Boiled Water Alert App\Boiled Water Alert App\obj\Debug\net6.0\Boiled Water Alert App.csproj.CopyComplete
